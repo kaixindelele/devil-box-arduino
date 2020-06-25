@@ -1,0 +1,5 @@
+rootProject.name = 'todo'
+include ':react-native-usbserial'
+project(':react-native-usbserial').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-usbserial/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
