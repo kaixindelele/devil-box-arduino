@@ -2,50 +2,6 @@
 
 A app built by react native, where you can set your tasks,and when the presetted time come, the relative devil box will remind you to do your tasks.
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-</div>
-<center>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<font size="7" face="黑体" >技术开发过程与验证报告</font>
-<br/>
-<br/>
-<font size="4" face="黑体">课程名称：	技术创意</font>
-<br/>
-<font size="4" face="黑体">小组成员：	沈丹琼 张昕怡 云菲</font>
-<br/>
-<font size="4" face="黑体">学    院：	计算机科学与技术学院</font>
-<br/>
-<font size="4" face="黑体">专    业：	数字媒体技术</font>
-<br/>
-<br/>
-<font size="4" face="黑体">2020 年  06  月  25   日</font>
-<br/>
-</center>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<center> <font size="6">目录</font></center>
-</br>
-
-[TOC]
 
 ## 1 产品背景
 
